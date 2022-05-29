@@ -1,11 +1,16 @@
 # Engage-Project
-microsoft 2022 engage project
+Microsoft 2022 Engage Project
+
 <h1 align="center">Netflix Clone 
   <img src="https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI" alt="Logo" width="25" height="25">
 </h1>
 
 <p align="center">
-MOVIE RECOMMENDATION SYSTEM 
+MOVIE RECOMMENDATION SYSTEM
+  <br>
+  <a href="https://drive.google.com/file/d/1v6ZUl0nWqJbBb4jvDkNX_SOcZnrUgcR5/view?usp=sharing">Video Demo</a>
+  .
+  <a href="https://drive.google.com/file/d/1oqTjbT5ZZnWVBRyDdffeZ-1Xa5FGDIZX/view?usp=sharing">Supporting Document</a>
 </p>
     
 <!-- TABLE OF CONTENTS -->
@@ -88,7 +93,7 @@ git init
 Clone this repository.
 
 ```bash
-git clone https://github.com/pooja-gera/MSTeamsClone-Engage2021
+git clone https://github.com/Prerna-Chawla/Engage-Project.git
 ``` 
 
 Change the directory. 
