@@ -119,7 +119,7 @@ or
 ```sh
   flask run
 ```
-<img src="images/run.png" alt="login screen" width="700"/>
+<img src="images/cmd_prompt_ms_engage.png" alt="login screen" width="700"/>
 
 <!-- APP TUTORIAL-->
 ## Navigating Through The App
